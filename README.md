@@ -37,5 +37,8 @@ Resources
 * Commenting can cause indentation errors:
 	http://stackoverflow.com/questions/13701509/python-unexpected-indent-but-indentation-is-seemingly-correct-and-consistent
 
+* Using import os to check files and directory
+	http://stackoverflow.com/questions/8933237/how-to-find-if-directory-exists-in-python
+
 
 
